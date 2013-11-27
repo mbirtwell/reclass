@@ -1,3 +1,6 @@
+**This branch (``class_mappings``) is a working branch and will be rebased at
+will.**
+
 reclass README
 ==============
 
